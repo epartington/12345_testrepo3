@@ -1,0 +1,2 @@
+zoom.us
+example.com
